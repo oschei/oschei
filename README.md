@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @oschei
+- 👀 I’m interested in human-computer interaction, accessible design, technology assisted teaching and learning, machine learning
+- 🌱 I’m currently enrolled in Georgia Tech's OMSCS program, learning about Ethics in Artificial Intelligence and Machine Learning
+- 💞️ I’m looking to collaborate on anything that facilitates learning or considers ethics in computing
+- 📫 Reach me at ods@gatech.edu
