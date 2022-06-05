@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @oschei
-- 👀 I’m interested in human-computer interaction, accessible design, technology assisted teaching and learning, machine learning
-- 🌱 I’m currently enrolled in Georgia Tech's OMSCS program, learning about Ethics in Artificial Intelligence and Machine Learning
-- 💞️ I’m looking to collaborate on anything that facilitates learning or considers ethics in computing
-- 📫 Reach me at ods@gatech.edu
+👋 Hello, my name is Oliver. I'm a Consultant in the Technology Strategy & Transformation practice of Deloitte Switzerland. My interests include human-computer interaction, ethics in computing, accessible design, technology assisted learning, and machine learning. 
