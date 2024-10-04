@@ -1,1 +1,1 @@
-👋 Hello, my name is Oliver. I'm a Consultant in the Technology Strategy & Transformation practice of Deloitte Switzerland. My interests include human-computer interaction, ethics in computing, accessible design, technology assisted learning, and machine learning. 
+
